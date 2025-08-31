@@ -1,0 +1,48 @@
+[
+    {
+        "nome": "Bracelete",
+        "material": "Rubi",
+        "pre\u00e7o": 38040.0
+    },
+    {
+        "nome": "Bracelete",
+        "material": "Prata",
+        "pre\u00e7o": 34550.0,
+        "categoria": "LUXO"
+    },
+    {
+        "nome": "anel",
+        "material": "lat\u00e3o",
+        "pre\u00e7o": 80.0
+    },
+    {
+        "nome": "Colar",
+        "material": "Diamantes",
+        "pre\u00e7o": 4000000.0
+    },
+    {
+        "nome": "anel",
+        "material": "diamante",
+        "pre\u00e7o": 50000.0
+    },
+    {
+        "nome": "brinco",
+        "material": "prata",
+        "pre\u00e7o": 500.0
+    },
+    {
+        "nome": "piercing",
+        "material": "diamante",
+        "pre\u00e7o": 5000.0
+    },
+    {
+        "nome": "Camar\u00e3o com Catupiry",
+        "material": "Camarao",
+        "pre\u00e7o": 3456.0
+    },
+    {
+        "nome": "bracelete",
+        "material": "prata",
+        "pre\u00e7o": 1000.0
+    }
+]
