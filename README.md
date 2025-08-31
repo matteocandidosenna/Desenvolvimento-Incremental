@@ -1,4 +1,4 @@
-# Desenvolvimento-Incremental
+# Desenvolvimento Incremental
 Aplicação em python com 3 versões, utilizando desenvolvimento incremental
 
 Funcionalidades da Versão I: 
